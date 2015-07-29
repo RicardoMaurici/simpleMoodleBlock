@@ -1,0 +1,17 @@
+{
+  "name": "ricardomaurici/moodle-block_list_users",
+  "description": "A simple block for list users on Moodle",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Ricardo Ferreira"
+    }
+  ],
+  "type": "moodle-block",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "list_users"
+  }
+}
