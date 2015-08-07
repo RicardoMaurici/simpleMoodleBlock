@@ -18,7 +18,7 @@
  * @package    block_list_users
  */
 defined('MOODLE_INTERNAL') || die();
-$plugin->version   = 2015072900;        // The current plugin version (Date: YYYYMMDDXX)
+$plugin->version   = 2015080700;        // The current plugin version (Date: YYYYMMDDXX)
 $plugin->requires  = 2012112900;        // Requires this Moodle version
 $plugin->component = 'block_list_users'; // Full name of the plugin (used for diagnostics)
 $plugin->cron = 300;
